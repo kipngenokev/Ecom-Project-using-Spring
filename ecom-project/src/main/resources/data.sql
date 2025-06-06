@@ -1,0 +1,6 @@
+INSERT INTO Product (name, description, brand, price, category, release_Date, available, quantity) VALUES
+                                                                                                       ('Model S', 'A fully electric luxury sedan with long range and fast acceleration.', 'Tesla', 79999.99, 'Sedan', '2023-03-15', TRUE, 12),
+                                                                                                       ('Mustang GT', 'A powerful American muscle car with V8 engine.', 'Ford', 55999.50, 'Coupe', '2022-08-10', TRUE, 8),
+                                                                                                       ('Corolla Hybrid', 'A reliable hybrid sedan ideal for city driving.', 'Toyota', 25999.00, 'Sedan', '2021-05-20', TRUE, 20),
+                                                                                                       ('CX-5', 'A compact SUV with stylish design and fuel efficiency.', 'Mazda', 31999.75, 'SUV', '2023-01-12', FALSE, 0),
+                                                                                                       ('X5 xDrive40i', 'A premium SUV with cutting-edge technology and comfort.', 'BMW', 67950.00, 'SUV', '2024-02-28', TRUE, 5);
